@@ -1,0 +1,21 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+`
+0chapter04/src/test/java/com/wordz/WordzTest.java,e/c/ec2e5d65548a82898c5827ff6694832b2a0de7ea
+b
+2chapter04/src/main/java/com/wordz/domain/Word.java,3/6/366da92993df080916893ac431150d8d49b310f3
+c
+3chapter04/src/main/java/com/wordz/domain/Score.java,c/b/cb6c0b8b79a440f0a34cc784a948dacfbb47da30
+d
+4chapter04/src/main/java/com/wordz/domain/Letter.java,1/7/1710ed80996c02654b41ffcba575dc52d30efd39
+w
+G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b/4/b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3
+Å
+Q.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,1/0/10a03f31c4dce92cb371e761ce9429428bb6c176
+\
+,.idea/inspectionProfiles/Project_Default.xml,4/9/496a238a6afa168dbaf6efd37bb459331589579c
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
